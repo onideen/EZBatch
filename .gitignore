@@ -82,5 +82,3 @@ jspm_packages
 
 
 /.idea/
-!/ezbatch-web/node_modules/
-/ezbatch-web/node_modules/
